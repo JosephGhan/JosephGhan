@@ -2,4 +2,4 @@
 
 -I'm a developer at Advanced Database Solutions
 
--I'm interested in anything .NET and learning anything new
+-I'm interested in .NET and learning new things
